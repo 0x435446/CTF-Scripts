@@ -1,4 +1,4 @@
-#MeHigh
+#By 0x435446/MeHigh
 from Crypto.Util.number import bytes_to_long
 def countTotalBits(num): 
       
